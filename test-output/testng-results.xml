@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser chrome Launched Successfully with AppURL: https://www.facebook.com/]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22288" started-at="2018-08-09T05:39:19Z" finished-at="2018-08-09T05:39:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22288" started-at="2018-08-09T05:39:19Z" finished-at="2018-08-09T05:39:41Z">
+      <class name="TestClass">
+        <test-method status="PASS" signature="test()[pri:0, instance:TestClass@4d95d2a2]" name="test" duration-ms="22247" started-at="2018-08-09T11:09:19Z" finished-at="2018-08-09T11:09:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser chrome Launched Successfully with AppURL: https://www.facebook.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
